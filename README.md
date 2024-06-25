@@ -1,4 +1,4 @@
-#  uniapp微信小程序
+#  uniapp微信小程序画板
 ### 安装npm包
 
 > npm i
