@@ -1,19 +1,17 @@
-#  uniapp小程序画板
-
+#  uniapp微信小程序
 ### 安装npm包
 
 > npm i
 
-### 技术
-
-- Uniapp+Vue3
 
 ### 功能
 
-- 画笔宽度
+- 粗细
 - 橡皮擦
 - 撤销、恢复
-- 保存到系统相册
+- 保存
 
-### 效果展示
-![1](https://github.com/rl-Agent/uniapp-drawing-board/blob/main/static/readme_img/1.png)
+### 技术栈
+
+- Uniapp+Vue3
+
