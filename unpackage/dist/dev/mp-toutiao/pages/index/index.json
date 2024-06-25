@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "uv-pick-color": "../../node-modules/@climblee/uv-ui/components/uv-pick-color/uv-pick-color"
+  }
+}

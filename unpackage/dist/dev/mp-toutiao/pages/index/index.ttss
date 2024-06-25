@@ -1,0 +1,52 @@
+
+.canvasWrap.data-v-1cf27b2a {
+		display: flex;
+		flex-direction: column;
+		position: relative;
+}
+#firstCanvas.data-v-1cf27b2a {
+		width: 100vw;
+		height: 100vh;
+}
+.toolsWrap.data-v-1cf27b2a {
+		width: 100vw;
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		padding: 50rpx 20rpx;
+		box-sizing: border-box;
+		background-color: white;
+		z-index: 999;
+}
+.toolsWrap .tool_btns.data-v-1cf27b2a {
+		display: flex;
+		justify-content: space-around;
+}
+.toolsWrap .tool_btns .tool_btn_item.data-v-1cf27b2a {
+		display: flex;
+		align-items: center;
+		background-color: royalblue;
+		padding: 8rpx 20rpx;
+		border-radius: 16rpx;
+		color: white;
+}
+
+	/* 颜色选择器 */
+.toolsWrap .tool_btns .pickColor_btn.data-v-1cf27b2a {
+		width: 50rpx;
+		height: 50rpx;
+		padding: 8rpx 20rpx;
+		background-color: aqua;
+}
+.toolsWrap .tool_pen.data-v-1cf27b2a {
+		display: flex;
+		align-items: center;
+}
+.toolsWrap .tool_pen text.data-v-1cf27b2a {
+		font-size: 16px;
+}
+.toolsWrap .undo_redo.data-v-1cf27b2a {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+}
